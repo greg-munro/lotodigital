@@ -20,17 +20,32 @@ nav {
 }
 .nav-loto {
   width: 35%;
+  cursor: pointer;
 }
 .nav-btns-right {
   display: flex;
   font-weight: 600;
+
 }
 .projects-btn {
   padding: 5px;
+  cursor: pointer;
 }
 .contact-btn {
   padding: 5px;
+  cursor: pointer;
+  text-decoration: none
 }
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
 .hero {
   margin-top: 150px;
   display: flex;
@@ -53,6 +68,9 @@ nav {
 }
 .lotodigital {
   width: 45%
+}
+.lotodigital:hover {
+  transform: rotateY('180');
 }
 .footer {
   font-size: .8rem;

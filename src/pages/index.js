@@ -1,24 +1,13 @@
 import * as React from 'react'
 import '../index.css'
+import Navbar from '../components/navbar'
 
 const IndexPage = () => {
   return (
     <>
     <div id="page-container">
     <div id="content-wrap">
-      <nav>
-        <div className='nav-logo'>
-          <img
-            className='nav-loto'
-            src='/static/lotologo.png'
-            alt='loto-logo'
-          />
-        </div>
-        <div className='nav-btns-right'>
-          <span className='projects-btn'>projects</span>
-          <span className='contact-btn'>contact</span>
-        </div>
-      </nav>
+     <Navbar />
 
       <div className='hero'>
    
@@ -26,7 +15,7 @@ const IndexPage = () => {
           <h1 className='hero-header'>design & innovation</h1>
 
           <p className='hero-annotation-1'>
-            we help bring your business into the world of today{' '}
+            we help bring your business into the world of today
           </p>
           <p className='hero-annotation-2'>*prices starting from €500</p>
         </div>
