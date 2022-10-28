@@ -11,3 +11,5 @@ const projects = () => {
 }
 
 export default projects
+
+export const Head = () => <title>loto digital</title>
