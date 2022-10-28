@@ -1,0 +1,33 @@
+body {
+  @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+  font-family: 'Inter', sans-serif;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+.nav-loto {
+  width: 35%;
+}
+.nav-btns-right {
+  display: flex;
+  font-weight: 600;
+}
+.projects-btn {
+  padding: 5px;
+}
+.contact-btn {
+  padding: 5px;
+}
+.hero {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.hero-text {
+  font-size: 2.9em;
+}
+.lotodigital {
+  width: 50%
+}
