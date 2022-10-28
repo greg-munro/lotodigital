@@ -23,11 +23,33 @@ nav {
   margin-top: 50px;
   display: flex;
   align-items: center;
-  flex-direction: column;
+  justify-content: flex-end;
 }
-.hero-text {
+.hero-header {
   font-size: 2.9em;
 }
+.hero-annotation-1 {
+  font-size: 25px;
+}
+.hero-annotation-2 {
+  font-size: 12px;
+}
 .lotodigital {
-  width: 50%
+  width: 45%
+}
+.footer {
+  width: 100vw;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.footer-loto {
+  width: 10%;
+}
+.insta-icon {
+  padding: 5px;
+}
+.twitter-icon {
+  padding: 5px;
 }
