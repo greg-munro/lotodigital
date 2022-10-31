@@ -1,6 +1,7 @@
 import * as React from 'react'
 import '../index.css'
 import Navbar from '../components/navbar'
+import { Link } from 'gatsby'
 
 const IndexPage = () => {
   return (
@@ -25,7 +26,7 @@ const IndexPage = () => {
       </div>
       <footer className='footer'>
         <div>
-          <p>gregmunro90@gmail.com</p>
+          loto digital_2022
         </div>
         <div>
         <div className='footer-icons'>

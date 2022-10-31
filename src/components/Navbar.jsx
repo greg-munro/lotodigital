@@ -14,8 +14,8 @@ const Navbar = () => {
           /> </Link>
         </div>
         <div className='nav-btns-right'>
-          <a className='projects-btn'><Link to="/projects">projects</Link></a>
-          <a className='contact-btn'><Link to="/contact">contact</Link></a>
+          <a className='projects-btn' href="/clients">clients</a>
+          <a href="mailto:gregmunro90@gmail.com?subject=Website enquiry">contact</a>
         </div>
       </nav>
 

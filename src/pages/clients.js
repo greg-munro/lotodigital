@@ -1,15 +1,15 @@
 import React from 'react'
 import Navbar from '../components/navbar'
 
-const projects = () => {
+const clients = () => {
   return (
     <>
       <Navbar />
-      
+      <li>testing</li>
     </>
   )
 }
 
-export default projects
+export default clients
 
 export const Head = () => <title>loto digital</title>
