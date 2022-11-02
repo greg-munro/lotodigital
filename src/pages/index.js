@@ -1,7 +1,6 @@
 import * as React from 'react'
 import '../index.css'
-import Navbar from '../components/navbar'
-import { Link } from 'gatsby'
+import Navbar from '../components/Navbar'
 
 const IndexPage = () => {
   return (
