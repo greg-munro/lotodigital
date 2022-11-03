@@ -1,5 +1,11 @@
+@media only screen and (min-width: 600px) {
+  .client-cards {
+    display: flex;
+  }
+}
 .client-cards {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   margin-top: 100px;
 }
