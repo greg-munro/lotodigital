@@ -1,5 +1,5 @@
-import './index.css'
 import '../index.css'
+import './home.css'
 import * as React from 'react'
 import Navbar from './components/Navbar'
 
