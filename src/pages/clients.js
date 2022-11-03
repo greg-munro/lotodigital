@@ -11,7 +11,7 @@ const clients = () => {
         <div class='container'>
           <div class='card'>
             <div class='imgBx'>
-              <img src='https://tinypic.host/images/2022/11/02/Screenshot-2022-11-02-at-11.56.04.png' />
+              <img src='https://i.postimg.cc/VNbPv3Fq/Screenshot-2022-11-03-at-16-11-30.png' />
             </div>
             <div class='contentBx'>
               <h2>Greg Munro</h2>
