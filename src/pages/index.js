@@ -1,3 +1,4 @@
+import './index.css'
 import '../index.css'
 import * as React from 'react'
 import Navbar from './components/Navbar'
@@ -12,7 +13,7 @@ const IndexPage = () => {
       <div className='hero'>
    
         <div className='hero-text'>
-          <h1 className='hero-header'>design & innovation</h1>
+          <h1 className='hero-header'>design & innovat2ion</h1>
 
           <p className='hero-annotation-1'>
             we help bring your business into the world of today
