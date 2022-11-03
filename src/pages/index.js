@@ -1,5 +1,5 @@
-import * as React from 'react'
 import '../index.css'
+import * as React from 'react'
 import Navbar from './components/Navbar'
 
 const IndexPage = () => {
@@ -20,7 +20,7 @@ const IndexPage = () => {
           <p className='hero-annotation-2'>*prices starting from €500</p>
         </div>
   
-        <img src='/static/lotodigital.png' className='lotodigital' />
+        <img src='https://i.postimg.cc/Njw4DYxJ/loto-digital.png' className='lotodigital' />
       </div>
       </div>
       <footer className='footer'>

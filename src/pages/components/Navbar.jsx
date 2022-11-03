@@ -9,7 +9,7 @@ const Navbar = () => {
         <Link to="/">
           <img
             className='nav-loto'
-            src='/static/lotologo.png'
+            src='https://i.postimg.cc/ZKW8xXmB/lotologo.png'
             alt='loto-logo'
           /> </Link>
         </div>
