@@ -8,15 +8,13 @@ nav {
   -ms-animation: fadeIn 1s;
 }
 .nav-loto {
-  width: 35%;
+  width: 30vw;
   cursor: pointer;
 }
 .nav-btns-right {
   display: flex;
   font-weight: 600;
-
 }
-
 .clients-btn {
   padding: 2px;
   margin-right: 12px;
@@ -24,7 +22,6 @@ nav {
   font-weight: 100;
   text-decoration: none;
 }
-
 .contact-btn { 
   padding: 2px;
   color: black;
