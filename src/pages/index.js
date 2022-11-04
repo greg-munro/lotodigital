@@ -26,7 +26,7 @@ const IndexPage = () => {
       </div>
       <footer className='footer'>
         <div>
-          loto digital_2022
+          gregmunro90@gmail.com
         </div>
         <div>
         <div className='footer-icons'>
