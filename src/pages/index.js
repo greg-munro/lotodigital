@@ -18,7 +18,7 @@ const IndexPage = () => {
           <p className='hero-annotation-1'>
             we help bring your business into the world of today
           </p>
-          <p className='hero-annotation-2'>*prices starting from €500</p>
+          {/* <p className='hero-annotation-2'>*prices starting from €500</p> */}
         </div>
   
         <img src='https://i.postimg.cc/Njw4DYxJ/loto-digital.png' className='lotodigital' />
