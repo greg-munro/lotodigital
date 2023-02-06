@@ -15,8 +15,8 @@ container{
 }
 .container .card{
   position: relative;
-  width: 320px;
-  height: 450px;
+  width: 480px;
+  height: 600px;
   background: #232323;
   border-radius: 20px;
   overflow: hidden;
@@ -196,8 +196,8 @@ container{
 
 .container-1 .card-1{
   position: relative;
-  width: 320px;
-  height: 450px;
+  width: 480px;
+  height: 600px;
   background: #232323;
   border-radius: 20px;
   overflow: hidden;
@@ -381,8 +381,8 @@ container{
 
 .container-2 .card-2{
   position: relative;
-  width: 320px;
-  height: 450px;
+  width: 480px;
+  height: 600px;
   background: #232323;
   border-radius: 20px;
   overflow: hidden;

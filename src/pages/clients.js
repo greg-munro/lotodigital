@@ -11,7 +11,7 @@ const clients = () => {
         <div className='container'>
           <div className='card'>
             <div className='imgBx'>
-              <img src='https://i.postimg.cc/VNbPv3Fq/Screenshot-2022-11-03-at-16-11-30.png' />
+              <img src='https://i.postimg.cc/VNbPv3Fq/Screenshot-2022-11-03-at-16-11-30.png' alt='greg munro' />
             </div>
             <div className='contentBx'>
               <h2>Greg Munro</h2>
@@ -28,14 +28,14 @@ const clients = () => {
         <div className='container-1'>
           <div className='card-1'>
             <div className='imgBx-1'>
-              <img src='https://tinypic.host/images/2022/11/02/Screenshot-2022-11-02-at-12.02.39.png' />
+              <img src='https://clasijazz.com/wp-content/uploads/2020/09/irene-reig.jpg' alt='irene reig'/>
             </div>
             <div className='contentBx-1'>
-              <h2>Berghain Bootcamp</h2>
-              <h5>quiz game based on techno music</h5>
+              <h2>Irene Reig</h2>
+              <h5>Barcelona based Jazz musician</h5>
               <div className='size-1'></div>
               <div className='color-1'></div>
-              <a href='https://gmunro90.github.io/Berghain-Bootcamp/' target='_blank'>
+              <a href='https://irenereigmusic.com/' target='_blank'>
                 visit
               </a>
             </div>
